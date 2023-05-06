@@ -1,2 +1,2 @@
 # heptabase-api
-Get heptabase data
+Get heptabase data for my deployment
